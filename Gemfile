@@ -8,6 +8,7 @@ gem "rails", "~> 7.0.2", ">= 7.0.2.2"
 
 # The original asset pipeline for Rails [https://github.com/rails/sprockets-rails]
 gem "sprockets-rails"
+gem 'redis', '~> 4.6'
 
 # Use the Puma web server [https://github.com/puma/puma]
 gem "puma", "~> 5.0"
